@@ -18,7 +18,7 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/tuist/tuist", .revision("8b5aa8a4c")),
+        .package(url: "https://github.com/tuist/tuist", .revision("37d054762")),
     ],
     targets: [
         .target(
